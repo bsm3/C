@@ -6,7 +6,6 @@ typedef struct matrix
     int row, i[3], x[6], y, ch;
     int i1;
     char * arr;
-    char * in[30];
 
 }matrix;
 
